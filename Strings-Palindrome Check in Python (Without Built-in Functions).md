@@ -31,7 +31,6 @@ else:
 
 ## Output
 <img width="296" height="67" alt="image" src="https://github.com/user-attachments/assets/b54c3834-d410-46e3-97ce-4ae38aea02e3" />
-## Result
 
 
 ## Result
